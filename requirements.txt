@@ -1,0 +1,11 @@
+fastapi>=0.111.0
+uvicorn>=0.31.1
+python-dotenv==1.1.1
+supabase==2.10.0
+langchain-groq>=0.1.0
+pydantic==2.11.9
+python-multipart>=0.0.9
+httpx>=0.24,<0.28
+anyio>=4.8.0
+PyJWT>=2.10.1
+websockets>=13.0,<15.1
